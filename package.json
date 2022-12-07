@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dishant-yadav.github.io/crud-app",
-  "name": "crud-app",
+  "homepage": "https://dishant-yadav.github.io/Todo-List",
+  "name": "TodoList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
